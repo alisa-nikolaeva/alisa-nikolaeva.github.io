@@ -43,4 +43,6 @@ body {
     background-color: #e7f1e8;
     padding: 10px;
 }
+
+body { backgraund: url(backgraund.jpg); }
 </style>
